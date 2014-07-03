@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Hibernate" type="hibernate">
+    <CLASSES>
+      <root url="jar://D:/!Install/hibernate-distribution-3.6.4.Final/hibernate3.jar!/" />
+      <root url="jar://D:/!Install/hibernate-distribution-3.6.4.Final/lib/required/antlr-2.7.6.jar!/" />
+      <root url="jar://D:/!Install/hibernate-distribution-3.6.4.Final/lib/required/commons-collections-3.1.jar!/" />
+      <root url="jar://D:/!Install/hibernate-distribution-3.6.4.Final/lib/required/dom4j-1.6.1.jar!/" />
+      <root url="jar://D:/!Install/hibernate-distribution-3.6.4.Final/lib/required/javassist-3.12.0.GA.jar!/" />
+      <root url="jar://D:/!Install/hibernate-distribution-3.6.4.Final/lib/required/jta-1.1.jar!/" />
+      <root url="jar://D:/!Install/hibernate-distribution-3.6.4.Final/lib/jpa/hibernate-jpa-2.0-api-1.0.0.Final.jar!/" />
+      <root url="jar://D:/!Install/hibernate-distribution-3.6.4.Final/lib/bytecode/javassist/javassist-3.12.0.GA.jar!/" />
+      <root url="jar://C:/Program Files (x86)/PostgreSQL/pgJDBC/postgresql-9.3-1100.jdbc4.jar!/" />
+      <root url="jar://D:/!Install/ehcache-2.8.3/lib/ehcache-2.8.3.jar!/" />
+      <root url="jar://D:/!Install/ehcache-2.8.3/lib/slf4j-api-1.6.6.jar!/" />
+      <root url="jar://D:/!Install/ehcache-2.8.3/lib/slf4j-jdk14-1.6.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
